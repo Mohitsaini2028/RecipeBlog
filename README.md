@@ -38,3 +38,9 @@ $ npm start
 ### ```Visit the recipe```
 
 ![chrome_kivHzg7VDC](https://user-images.githubusercontent.com/66358041/177321772-8c837e45-afa4-4c9f-a5c6-3ef1f8f04257.jpg)
+
+<br/><br/>
+### ```Search functionality```
+
+![chrome_pTU6CP3xrt](https://user-images.githubusercontent.com/66358041/177574809-4b43109d-bdec-40a5-84ac-a4c05a757d77.png)
+
