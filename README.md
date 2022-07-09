@@ -1,4 +1,5 @@
 # Recipe Blog - Using Node.js and MongoDB
+A food recipe website where you can check out different recipes and also can share your own. 
 
 ## Installation
 To run this project, install it locally using npm:
